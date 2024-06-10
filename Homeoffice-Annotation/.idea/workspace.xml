@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3a8735a-7725-4973-8559-08e58ac8c535" name="Changes" comment="First push">
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/main/java/CV/Library/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/main/java/CV/Library/managedriver/ManageDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/main/java/CV/Library/propertyreader/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/main/java/CV/Library/utility/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/CV/Library/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/CV/Library/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/CV/Library/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/featuresfile/visaconformation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/main/java/CV/Library/homepage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/CV/Library/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/featuresfile/cvlibrary.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../CV-Library-BDDAnnotion/src/test/java/resources/featuresfile/cvlibrary.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Home/office/pages/VisaConformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Home/office/pages/VisaConformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/logs/log.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/logs/log.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Home/office/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/office/steps/Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cucumber Java.Feature: visaconformation.executor": "Run",
-    "Cucumber Java.Scenario: user should be able to click on start button.executor": "Run",
-    "Cucumber Java.Scenario: user should navigate to homepage successfully.executor": "Run",
-    "JUnit.TestRunner.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Komal/Softwere/Hamcrest/hamcrest-2.2.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: visaconformation.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: user should be able to click on start button.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: user should navigate to homepage successfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Komal/Softwere/Hamcrest/hamcrest-2.2.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Home.office.pages" />
@@ -81,7 +63,7 @@
       <recent name="C:\Komal\BDD Homework\BDD-Annotation\Homeoffice-Annotation\src\test\java\Home\office" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: user should navigate to homepage successfully">
+  <component name="RunManager" selected="Cucumber Java.Feature: visaconformation">
     <configuration name="Feature: visaconformation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" />
@@ -158,9 +140,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: visaconformation" />
         <item itemvalue="Cucumber Java.Scenario: user should navigate to homepage successfully" />
         <item itemvalue="Cucumber Java.Scenario: user should be able to click on start button" />
-        <item itemvalue="Cucumber Java.Feature: visaconformation" />
         <item itemvalue="JUnit.TestRunner" />
       </list>
     </recent_temporary>
@@ -197,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718046325315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First push">
+      <option name="closed" value="true" />
+      <created>1718053084410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718053084410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
