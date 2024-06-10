@@ -47,4 +47,11 @@ public class Steps {
         visaConformation.clickOnReasonForVisit();
 
     }
+
+    @Then("^I should verify text message successfully$")
+    public void iShouldVerifyTextMessageSuccessfully() {
+        String expectedMessage = "You will not need a visa to come to the UK";
+        String actualMessage = visaConformation.getVerifyMessage();
+        Assert.assertEquals(expectedMessage,actualMessage);
+    }
 }

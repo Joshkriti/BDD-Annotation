@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a8735a-7725-4973-8559-08e58ac8c535" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home/office/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home/office/managedriver/ManageDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home/office/pages/VisaConformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home/office/propertyreader/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home/office/utility/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Home/office/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Home/office/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Home/office/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Home/office/steps/Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+    <list default="true" id="b3a8735a-7725-4973-8559-08e58ac8c535" name="Changes" comment="First push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Home/office/pages/VisaConformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Home/office/pages/VisaConformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Home/office/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/office/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/visaconformation.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2hemxic6eRqj5g25kw1Rw39zvDh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,7 +49,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -157,10 +141,17 @@
       <list>
         <item itemvalue="Cucumber Java.Scenario: user should be able to click on start button" />
         <item itemvalue="Cucumber Java.Feature: visaconformation" />
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: user should navigate to homepage successfully" />
+        <item itemvalue="JUnit.TestRunner" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -171,6 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711883610397</updated>
     </task>
+    <task id="LOCAL-00001" summary="First push">
+      <option name="closed" value="true" />
+      <created>1718039216958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718039216958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First push" />
   </component>
 </project>
