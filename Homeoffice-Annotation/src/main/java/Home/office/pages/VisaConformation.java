@@ -43,9 +43,14 @@ public class VisaConformation extends Utility {
     @FindBy (xpath = "//*[@class='govuk-!-margin-bottom-6']/h2")
     WebElement verifyMessage;
 
+    @CacheLookup
+    @FindBy (xpath = "//*[@class='govuk-radios']/div[2]/input[1]")
+    WebElement jobType;
+
     public void clickOnCookies(){
         log.info("Click on cookies: ");
         clickOnElement(cookiesAccept);
+
     }
 
     public String getVerifyText(){
@@ -77,6 +82,11 @@ public class VisaConformation extends Utility {
         String message = getTextFromElement(verifyMessage);
         log.info("Getting text from: " + verifyMessage.toString());
         return message;
+    }
+
+    public void getJobType(){
+        log.info("Job type: ");
+        clickOnElement(jobType);
     }
 
 

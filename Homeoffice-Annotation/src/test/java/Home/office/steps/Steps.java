@@ -54,4 +54,10 @@ public class Steps {
         String actualMessage = visaConformation.getVerifyMessage();
         Assert.assertEquals(expectedMessage,actualMessage);
     }
+
+    @And("^I click on job type$")
+    public void iClickOnJobType() {
+        visaConformation.getJobType();
+
+    }
 }
