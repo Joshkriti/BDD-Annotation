@@ -4,8 +4,8 @@ import Home.office.pages.VisaConformation;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
 import junit.framework.Assert;
+import org.openqa.selenium.By;
 
 public class Steps {
 
@@ -14,7 +14,7 @@ public class Steps {
     public void iAmOnHomepage() {
     }
 
-    @When("^I click on cookies it should accept my cookies$")
+    @And("^I click on cookies it should accept my cookies$")
     public void iClickOnCookiesItShouldAcceptMyCookies() {
         visaConformation.clickOnCookies();
     }
@@ -27,14 +27,14 @@ public class Steps {
         Assert.assertEquals(expectedText,actualText);
     }
 
-    @And("^I click on start button$")
+    @Then("^I click on start button$")
     public void iClickOnStartButton() {
         visaConformation.clickOnStartButton();
     }
 
     @And("^I choose nationality$")
     public void chooseNationality() {
-
+        visaConformation.selectNationality(By.className("govuk-select"),"Australia");
     }
 
     @And("^I click on continue button$")

@@ -1,8 +1,19 @@
 Feature: CV Library Test
 
-  Background:
+  Scenario: user should apply for job
     Given I am on homepage
-    When I click on cookies
+    And I enter following details
+    | jobTitle | location | distance | salaryMin | salaryMax | salaryType | jobType |
+
+
+
+
+
+
+
+
+
 
   Scenario: user should navigate to homepage successfully
     Then I should navigate to homepage successfully
+    And I enter job title

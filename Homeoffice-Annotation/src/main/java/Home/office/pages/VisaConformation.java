@@ -3,6 +3,7 @@ package Home.office.pages;
 import Home.office.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
@@ -63,10 +64,15 @@ public class VisaConformation extends Utility {
         log.info("Click on start button: ");
         clickOnElement(startButton);
     }
-
-    public void selectNationality(WebElement element, String text){
-        new Select(element).selectByVisibleText(text);
+    public void selectNationality(By by, String text) {
+        WebElement dropDown = driver.findElement(by);
+        Select select = new Select(dropDown);
+        select.selectByVisibleText(text);
     }
+
+    /*public void selectNationality(WebElement element, String text){
+        new Select(element).selectByVisibleText(text);
+    }*/
 
     public void clickOnContinueButton(){
         log.info("Click on continue button");

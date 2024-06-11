@@ -37,3 +37,29 @@
 2024-06-10 22:06:225 INFO  VisaConformation :51 - Click on cookies: 
 2024-06-10 22:06:311 INFO  VisaConformation :51 - Click on cookies: 
 2024-06-10 22:06:456 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:170 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:442 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:805 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:413 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:586 INFO  VisaConformation :58 - Getting text from: [[ChromeDriver: chrome on windows (9c07133375541968efb78dd44ee51cf4)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-11 14:06:807 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:971 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:418 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 14:06:954 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 15:06:100 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 16:06:769 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 16:06:309 INFO  VisaConformation :58 - Getting text from: [[ChromeDriver: chrome on windows (4bff309fbe3592f574ad561b0c96ab0c)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-11 16:06:323 INFO  VisaConformation :63 - Click on start button: 
+2024-06-11 16:06:33 INFO  VisaConformation :72 - Click on continue button
+2024-06-11 16:06:437 INFO  VisaConformation :63 - Click on start button: 
+2024-06-11 16:06:356 INFO  VisaConformation :51 - Click on cookies: 
+2024-06-11 16:06:735 INFO  VisaConformation :63 - Click on start button: 
+2024-06-11 16:06:467 INFO  VisaConformation :88 - Job type: 
+2024-06-11 17:06:998 INFO  VisaConformation :64 - Click on start button: 
+2024-06-11 17:06:432 INFO  VisaConformation :78 - Click on continue button
+2024-06-11 17:06:658 INFO  VisaConformation :83 - Click on reason for visiting
+2024-06-11 17:06:723 INFO  VisaConformation :78 - Click on continue button
+2024-06-11 17:06:943 INFO  VisaConformation :64 - Click on start button: 
+2024-06-11 17:06:78 INFO  VisaConformation :78 - Click on continue button
+2024-06-11 17:06:219 INFO  VisaConformation :83 - Click on reason for visiting
+2024-06-11 17:06:278 INFO  VisaConformation :78 - Click on continue button

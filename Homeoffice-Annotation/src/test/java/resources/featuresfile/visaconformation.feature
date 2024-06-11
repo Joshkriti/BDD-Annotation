@@ -2,7 +2,9 @@ Feature: visa conformation Test
 
   Background:
     Given I am on homepage
-    When I click on cookies it should accept my cookies
+
+  Scenario: user should click on cookies
+    Then I click on cookies it should accept my cookies
 
   Scenario: user should navigate to homepage successfully
     Then I should navigate homepage successfully
