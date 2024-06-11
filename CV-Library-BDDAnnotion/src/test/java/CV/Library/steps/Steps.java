@@ -13,7 +13,8 @@ import java.util.Map;
 
 public class Steps {
 
-    HomePage homePage = new HomePage();
+    //HomePage homePage = new HomePage();
+    HomePage homePage;
 
     @Given("^I am on homepage$")
     public void iAmOnHomepage() {
@@ -40,6 +41,10 @@ public class Steps {
     public void iEnterFollowingDetails(DataTable dataTable) {
 
         List<Map<String, String>> rows = dataTable.asMaps(String.class, String.class);
+
+        for (Map<String,String> columns : rows){
+            new HomePage().findAJob(columns.get("jobTitle"),);
+        }
 
 
     }
