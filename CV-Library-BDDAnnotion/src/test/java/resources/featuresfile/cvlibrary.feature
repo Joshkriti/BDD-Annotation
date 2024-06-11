@@ -1,7 +1,6 @@
 Feature: CV Library Test
 
   Scenario: user should navigate to homepage successfully
-    And I click on cookies
     Then I should navigate to homepage successfully
 
   Scenario: user should apply for job

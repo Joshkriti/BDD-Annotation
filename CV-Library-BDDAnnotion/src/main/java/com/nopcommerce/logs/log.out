@@ -1,0 +1,2 @@
+2024-06-11 17:06:33 INFO  HomePage :35 - Getting text from : [[ChromeDriver: chrome on windows (315edb7cd5454657a9eabfaabc3f99e8)] -> xpath: //h1[text()='Find a job']]
+2024-06-11 17:06:892 INFO  HomePage :35 - Getting text from : [[ChromeDriver: chrome on windows (6ebfe9db853bcfb33803b6f0c619d21e)] -> xpath: //h1[text()='Find a job']]

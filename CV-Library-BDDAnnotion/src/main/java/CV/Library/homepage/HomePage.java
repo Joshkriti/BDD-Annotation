@@ -59,6 +59,11 @@ public class HomePage extends Utility {
     public void findAJob(String jobTitle, String location, String
             distance, String salaryMin, String salaryMax, String salaryType, String jobType) throws InterruptedException{
         Thread.sleep(2000);
+
+        driver.switchTo().frame("gdpr-consent-notice");
+        driver.findElement(By.xpath("//*[text()='Accept All']")).click();
+        driver.switchTo().defaultContent();
+
         sendTextToElement(jobTitleArea,jobTitle);
         sendTextToElement(locationArea,location);
         Thread.sleep(2000);
@@ -68,7 +73,9 @@ public class HomePage extends Utility {
         Thread.sleep(2000);
         sendTextToElement(salaryMaxField,salaryMax);
         sendTextToElement(salaryTypeSelect,salaryType);
+        Thread.sleep(2000);
         sendTextToElement(jobTypeSelect,jobType);
+        clickOnElement(findJobsButton);
     }
 
 
