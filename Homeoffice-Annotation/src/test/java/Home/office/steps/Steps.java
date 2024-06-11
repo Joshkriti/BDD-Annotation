@@ -5,7 +5,6 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import junit.framework.Assert;
-import org.openqa.selenium.By;
 
 public class Steps {
 
@@ -33,12 +32,12 @@ public class Steps {
     }
 
     @And("^I choose nationality$")
-    public void chooseNationality() {
-        visaConformation.selectNationality(By.className("govuk-select"),"Australia");
+    public void chooseNationality() throws InterruptedException {
+       visaConformation.selectNationality("Australia");
     }
 
     @And("^I click on continue button$")
-    public void iClickOnContinueButton() {
+    public void iClickOnContinueButton() throws InterruptedException {
         visaConformation.clickOnContinueButton();
     }
 

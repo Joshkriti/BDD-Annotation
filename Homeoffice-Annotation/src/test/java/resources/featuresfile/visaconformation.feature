@@ -15,10 +15,6 @@ Feature: visa conformation Test
     And I click on continue button
     Then I should verify text message successfully
 
-    Scenario: user should be able to select another nationality
-      When I click on cookies it should accept my cookies
-      And I click on start button
-      And I click on job type
 
 
 

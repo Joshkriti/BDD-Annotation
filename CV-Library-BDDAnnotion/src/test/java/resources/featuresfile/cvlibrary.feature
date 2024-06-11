@@ -1,12 +1,12 @@
 Feature: CV Library Test
 
   Scenario: user should navigate to homepage successfully
+    And I click on cookies
     Then I should navigate to homepage successfully
 
   Scenario: user should apply for job
     Given I am on homepage
     And I enter following details
-    | jobTitle | location | distance | salaryMin | salaryMax | salaryType | jobType |
-
-
+    | jobTitle | location              | distance | salaryMin | salaryMax | salaryType | jobType |
+    | Tester   | Harrow, Greater London| 5 miles  | 30000     | 50000     | Per annum  | Permanent|
 

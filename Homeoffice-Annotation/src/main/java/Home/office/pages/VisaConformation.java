@@ -3,12 +3,10 @@ package Home.office.pages;
 import Home.office.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
 
 public class VisaConformation extends Utility {
     private static final Logger log = LogManager.getLogger(VisaConformation.class.getName());
@@ -29,11 +27,11 @@ public class VisaConformation extends Utility {
     WebElement startButton;
 
     @CacheLookup
-    @FindBy(className = "govuk-select")
+    @FindBy(xpath = "//select[@id='response']")
     WebElement nationality;
 
     @CacheLookup
-    @FindBy (xpath = "//*[@class='gem-c-button govuk-button gem-c-button--bottom-margin']")
+    @FindBy (xpath = "//button[contains(text(),'Continue')]")
     WebElement continueButton;
 
     @CacheLookup
@@ -64,15 +62,12 @@ public class VisaConformation extends Utility {
         log.info("Click on start button: ");
         clickOnElement(startButton);
     }
-    public void selectNationality(By by, String text) {
-        WebElement dropDown = driver.findElement(by);
-        Select select = new Select(dropDown);
-        select.selectByVisibleText(text);
-    }
 
-    /*public void selectNationality(WebElement element, String text){
-        new Select(element).selectByVisibleText(text);
-    }*/
+    public void selectNationality( String nationality1) throws InterruptedException {
+       // clickOnElement(nationality);
+        Thread.sleep(5000);
+       selectByVisibleTextFromDropDown(nationality,nationality1);
+    }
 
     public void clickOnContinueButton(){
         log.info("Click on continue button");

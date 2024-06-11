@@ -146,6 +146,7 @@ public class Utility extends ManageDriver {
     }
 
     public void selectByVisibleTextFromDropDown(WebElement element, String text) {
+
         new Select(element).selectByVisibleText(text);
     }
 

@@ -63,6 +63,7 @@ public class HomePage extends Utility {
         sendTextToElement(locationArea,location);
         Thread.sleep(2000);
         sendTextToElement(distanceArea,distance);
+        clickOnElement(moreSearchOptionsLink);
         sendTextToElement(salaryMinField,salaryMin);
         Thread.sleep(2000);
         sendTextToElement(salaryMaxField,salaryMax);
@@ -75,7 +76,6 @@ public class HomePage extends Utility {
         driver.switchTo().frame("gdpr-consent-notice");
         driver.findElement(By.xpath("//*[text()='Accept All']")).click();
         driver.switchTo().defaultContent();
-
     }
     public String getVerifyText() {
         String message = getTextFromElement(verifyText);
@@ -83,11 +83,6 @@ public class HomePage extends Utility {
         return message;
     }
 
-    public void enterJobTitle(String jobTitle) {
-        log.info("enter job tile");
-        sendTextToElement(jobTitleArea, jobTitle);
-
-    }
 
 
 

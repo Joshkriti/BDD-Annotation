@@ -38,12 +38,13 @@ public class Steps {
     }
 
     @And("^I enter following details$")
-    public void iEnterFollowingDetails(DataTable dataTable) {
+    public void iEnterFollowingDetails(DataTable dataTable) throws InterruptedException {
 
         List<Map<String, String>> rows = dataTable.asMaps(String.class, String.class);
 
         for (Map<String,String> columns : rows){
-            new HomePage().findAJob(columns.get("jobTitle"),);
+            new HomePage().findAJob(columns.get("jobTitle"), columns.get("location"), columns.get("distance"), columns.get("salaryMin"),
+                    columns.get("salaryMax"),columns.get("salaryType"), columns.get("jobType"));
         }
 
 
