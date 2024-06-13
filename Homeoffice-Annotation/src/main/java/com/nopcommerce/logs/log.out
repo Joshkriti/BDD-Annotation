@@ -202,3 +202,364 @@
 2024-06-11 23:06:608 INFO  VisaConformation :73 - Click on continue button
 2024-06-11 23:06:921 INFO  VisaConformation :78 - Click on reason for visiting
 2024-06-11 23:06:17 INFO  VisaConformation :73 - Click on continue button
+2024-06-12 19:06:913 INFO  VisaConformation :57 - Getting text from: [[ChromeDriver: chrome on windows (5097ee8b2ba73b290e81625293471ec4)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 19:06:844 INFO  VisaConformation :50 - Click on cookies: 
+2024-06-12 19:06:04 INFO  VisaConformation :62 - Click on start button: 
+2024-06-12 19:06:73 INFO  VisaConformation :77 - Click on continue button
+2024-06-12 19:06:202 INFO  VisaConformation :82 - Click on reason for visiting
+2024-06-12 19:06:396 INFO  VisaConformation :77 - Click on continue button
+2024-06-12 19:06:965 INFO  VisaConformation :53 - Click on cookies: 
+2024-06-12 19:06:68 INFO  VisaConformation :65 - Click on start button: 
+2024-06-12 19:06:869 INFO  VisaConformation :70 - Select nationality
+2024-06-12 19:06:64 INFO  VisaConformation :75 - Click on continue button
+2024-06-12 19:06:367 INFO  VisaConformation :80 - Click on reason for visiting
+2024-06-12 19:06:39 INFO  VisaConformation :53 - Click on cookies: 
+2024-06-12 19:06:396 INFO  VisaConformation :65 - Click on start button: 
+2024-06-12 19:06:341 INFO  VisaConformation :70 - Select nationality
+2024-06-12 19:06:479 INFO  VisaConformation :75 - Click on continue button
+2024-06-12 19:06:794 INFO  VisaConformation :80 - Click on reason for visiting
+2024-06-12 19:06:318 INFO  VisaConformation :60 - Getting text from: [[ChromeDriver: chrome on windows (ff58bde79e4d534b915d35e70504bcad)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 19:06:70 INFO  VisaConformation :53 - Click on cookies: 
+2024-06-12 19:06:187 INFO  VisaConformation :65 - Click on start button: 
+2024-06-12 19:06:874 INFO  VisaConformation :70 - Select nationality
+2024-06-12 19:06:65 INFO  VisaConformation :75 - Click on continue button
+2024-06-12 19:06:278 INFO  VisaConformation :80 - Click on reason for visiting
+2024-06-12 19:06:366 INFO  VisaConformation :85 - It should click on now
+2024-06-12 19:06:725 INFO  VisaConformation :91 - Getting text from: [[ChromeDriver: chrome on windows (168fb48634a622c21acf57e97dbd621f)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:325 INFO  VisaConformation :57 - Click on cookies: 
+2024-06-12 20:06:428 INFO  VisaConformation :69 - Click on start button: 
+2024-06-12 20:06:338 INFO  VisaConformation :74 - Select nationality
+2024-06-12 20:06:532 INFO  VisaConformation :79 - Click on continue button
+2024-06-12 20:06:747 INFO  VisaConformation :84 - Click on reason for visiting
+2024-06-12 20:06:918 INFO  VisaConformation :89 - It should click on now
+2024-06-12 20:06:285 INFO  VisaConformation :95 - Getting text from: [[ChromeDriver: chrome on windows (3600cd686459e02f7958cf34ffd72363)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:224 INFO  VisaConformation :57 - Click on cookies: 
+2024-06-12 20:06:331 INFO  VisaConformation :69 - Click on start button: 
+2024-06-12 20:06:43 INFO  VisaConformation :74 - Select nationality
+2024-06-12 20:06:231 INFO  VisaConformation :79 - Click on continue button
+2024-06-12 20:06:464 INFO  VisaConformation :64 - Getting text from: [[ChromeDriver: chrome on windows (7e809c3e0917aad5ed7c247183892da5)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:377 INFO  VisaConformation :57 - Click on cookies: 
+2024-06-12 20:06:506 INFO  VisaConformation :69 - Click on start button: 
+2024-06-12 20:06:293 INFO  VisaConformation :74 - Select nationality
+2024-06-12 20:06:478 INFO  VisaConformation :79 - Click on continue button
+2024-06-12 20:06:602 INFO  VisaConformation :84 - Click on reason for visiting
+2024-06-12 20:06:791 INFO  VisaConformation :89 - It should click on now
+2024-06-12 20:06:59 INFO  VisaConformation :95 - Getting text from: [[ChromeDriver: chrome on windows (9b7ed48f3abcb337740463e756a15491)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:837 INFO  VisaConformation :57 - Click on cookies: 
+2024-06-12 20:06:954 INFO  VisaConformation :69 - Click on start button: 
+2024-06-12 20:06:686 INFO  VisaConformation :74 - Select nationality
+2024-06-12 20:06:904 INFO  VisaConformation :79 - Click on continue button
+2024-06-12 20:06:44 INFO  VisaConformation :100 - Job type: 
+2024-06-12 20:06:291 INFO  VisaConformation :89 - It should click on now
+2024-06-12 20:06:502 INFO  VisaConformation :105 - Length of stay
+2024-06-12 20:06:574 INFO  VisaConformation :89 - It should click on now
+2024-06-12 20:06:110 INFO  VisaConformation :72 - Getting text from: [[ChromeDriver: chrome on windows (3f9d46da536cb1a9ca8dea32888b9c9d)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:998 INFO  VisaConformation :65 - Click on cookies: 
+2024-06-12 20:06:102 INFO  VisaConformation :77 - Click on start button: 
+2024-06-12 20:06:858 INFO  VisaConformation :82 - Select nationality
+2024-06-12 20:06:55 INFO  VisaConformation :87 - Click on continue button
+2024-06-12 20:06:232 INFO  VisaConformation :92 - Click on reason for visiting
+2024-06-12 20:06:409 INFO  VisaConformation :97 - It should click on now
+2024-06-12 20:06:754 INFO  VisaConformation :103 - Getting text from: [[ChromeDriver: chrome on windows (485571af2d7ae21d746871426af72f2d)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:649 INFO  VisaConformation :65 - Click on cookies: 
+2024-06-12 20:06:775 INFO  VisaConformation :77 - Click on start button: 
+2024-06-12 20:06:482 INFO  VisaConformation :82 - Select nationality
+2024-06-12 20:06:735 INFO  VisaConformation :87 - Click on continue button
+2024-06-12 20:06:21 INFO  VisaConformation :108 - Job type: 
+2024-06-12 20:06:108 INFO  VisaConformation :97 - It should click on now
+2024-06-12 20:06:393 INFO  VisaConformation :113 - Length of stay
+2024-06-12 20:06:490 INFO  VisaConformation :118 - click on third button
+2024-06-12 20:06:752 INFO  VisaConformation :123 - click on forth button
+2024-06-12 20:06:490 INFO  VisaConformation :65 - Click on cookies: 
+2024-06-12 20:06:590 INFO  VisaConformation :77 - Click on start button: 
+2024-06-12 20:06:299 INFO  VisaConformation :82 - Select nationality
+2024-06-12 20:06:502 INFO  VisaConformation :87 - Click on continue button
+2024-06-12 20:06:632 INFO  VisaConformation :92 - Click on reason for visiting
+2024-06-12 20:06:836 INFO  VisaConformation :97 - It should click on now
+2024-06-12 20:06:111 INFO  VisaConformation :103 - Getting text from: [[ChromeDriver: chrome on windows (5eb13f271734d0effd8d1ab3f8104617)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:28 INFO  VisaConformation :65 - Click on cookies: 
+2024-06-12 20:06:135 INFO  VisaConformation :77 - Click on start button: 
+2024-06-12 20:06:868 INFO  VisaConformation :82 - Select nationality
+2024-06-12 20:06:38 INFO  VisaConformation :87 - Click on continue button
+2024-06-12 20:06:270 INFO  VisaConformation :108 - Job type: 
+2024-06-12 20:06:368 INFO  VisaConformation :97 - It should click on now
+2024-06-12 20:06:570 INFO  VisaConformation :113 - Length of stay
+2024-06-12 20:06:640 INFO  VisaConformation :118 - click on third button
+2024-06-12 20:06:840 INFO  VisaConformation :123 - click on forth button
+2024-06-12 20:06:438 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (fd2620cd4aeeecfc95528fbd491998c5)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:249 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:376 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:115 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:319 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:646 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 20:06:752 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:124 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (da6e4d440327a1cd474e8548a4725df9)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:914 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:42 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:784 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:963 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:151 INFO  VisaConformation :112 - Job type: 
+2024-06-12 20:06:311 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:637 INFO  VisaConformation :117 - Length of stay
+2024-06-12 20:06:720 INFO  VisaConformation :122 - click on third button
+2024-06-12 20:06:975 INFO  VisaConformation :132 - click on forth button
+2024-06-12 20:06:356 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (94601923ae609a4a2786d65a3866f907)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:124 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:234 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:07 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:208 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:435 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 20:06:528 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:775 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (d5a430511046b8fd4f3895bc6e5c696f)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:142 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:698 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:561 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:752 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:898 INFO  VisaConformation :112 - Job type: 
+2024-06-12 20:06:76 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:282 INFO  VisaConformation :117 - Length of stay
+2024-06-12 20:06:356 INFO  VisaConformation :122 - click on third button
+2024-06-12 20:06:552 INFO  VisaConformation :127 - Job type again
+2024-06-12 20:06:160 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (11d0c3ab91a32af8a94a2588cb480775)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:998 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:172 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:07 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:202 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:320 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 20:06:522 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:794 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (ce3a45694ace5eca928e7cf84045bb6a)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:605 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:718 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:462 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:658 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:882 INFO  VisaConformation :112 - Job type: 
+2024-06-12 20:06:996 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:126 INFO  VisaConformation :117 - Length of stay
+2024-06-12 20:06:298 INFO  VisaConformation :122 - click on third button
+2024-06-12 20:06:495 INFO  VisaConformation :127 - Job type again
+2024-06-12 20:06:739 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (cf0f946b24d73e2956bde7e8b261819e)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 20:06:992 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:682 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:528 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:839 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:212 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 20:06:335 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:805 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (089187358432c2b8b5c285273084525a)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 20:06:274 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 20:06:429 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 20:06:247 INFO  VisaConformation :86 - Select nationality
+2024-06-12 20:06:491 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 20:06:719 INFO  VisaConformation :112 - Job type: 
+2024-06-12 20:06:953 INFO  VisaConformation :101 - It should click on now
+2024-06-12 20:06:294 INFO  VisaConformation :117 - Length of stay
+2024-06-12 20:06:391 INFO  VisaConformation :122 - click on third button
+2024-06-12 20:06:614 INFO  VisaConformation :127 - Job type again
+2024-06-12 21:06:467 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (de9f8b7bef51e388ce9b59bf60ccd6ff)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 21:06:916 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:34 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:691 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:821 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:979 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 21:06:108 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:368 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (9f74660adaa73feb38aeccc45ac56b1d)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:365 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:461 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:189 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:339 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:507 INFO  VisaConformation :112 - Job type: 
+2024-06-12 21:06:650 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:893 INFO  VisaConformation :117 - Length of stay
+2024-06-12 21:06:943 INFO  VisaConformation :122 - click on third button
+2024-06-12 21:06:112 INFO  VisaConformation :127 - job type again
+2024-06-12 21:06:808 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:110 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:795 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:931 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:196 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 21:06:246 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:516 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (ecad40c6501af28d490f1af64db3bad2)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:824 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:913 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:641 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:785 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:26 INFO  VisaConformation :112 - Job type: 
+2024-06-12 21:06:86 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:260 INFO  VisaConformation :117 - Length of stay
+2024-06-12 21:06:362 INFO  VisaConformation :122 - click on third button
+2024-06-12 21:06:545 INFO  VisaConformation :127 - job type again
+2024-06-12 21:06:415 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:809 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:521 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:458 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:522 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:158 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:304 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:407 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 21:06:536 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:716 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (899adf2e98ad82ada438f9813fee9ed5)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:73 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:153 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:798 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:921 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:87 INFO  VisaConformation :112 - Job type: 
+2024-06-12 21:06:147 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:291 INFO  VisaConformation :117 - Length of stay
+2024-06-12 21:06:338 INFO  VisaConformation :122 - click on third button
+2024-06-12 21:06:440 INFO  VisaConformation :127 - job type again
+2024-06-12 21:06:746 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:79 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:711 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:838 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:988 INFO  VisaConformation :76 - Getting text from: [[ChromeDriver: chrome on windows (d3bc62efa303cc7997118ad7106c93e0)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 21:06:993 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:405 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:104 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:242 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:502 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 21:06:555 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:867 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (821447df8b8278228f6582125ff9ea12)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:214 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:313 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:117 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:247 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:405 INFO  VisaConformation :112 - Job type: 
+2024-06-12 21:06:535 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:738 INFO  VisaConformation :117 - Length of stay
+2024-06-12 21:06:805 INFO  VisaConformation :122 - click on third button
+2024-06-12 21:06:963 INFO  VisaConformation :127 - job type again
+2024-06-12 21:06:53 INFO  VisaConformation :132 - click on forth button
+2024-06-12 21:06:385 INFO  VisaConformation :107 - Getting text from: [[ChromeDriver: chrome on windows (f6a1a921147d81475f3c47a52521b774)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:811 INFO  VisaConformation :69 - Click on cookies: 
+2024-06-12 21:06:900 INFO  VisaConformation :81 - Click on start button: 
+2024-06-12 21:06:629 INFO  VisaConformation :86 - Select nationality
+2024-06-12 21:06:764 INFO  VisaConformation :91 - Click on continue button
+2024-06-12 21:06:28 INFO  VisaConformation :96 - Click on reason for visiting
+2024-06-12 21:06:80 INFO  VisaConformation :101 - It should click on now
+2024-06-12 21:06:364 INFO  VisaConformation :83 - Getting text from: [[ChromeDriver: chrome on windows (9ffda4c29f28953d2a5eca10c563f81f)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 21:06:732 INFO  VisaConformation :76 - Click on cookies: 
+2024-06-12 21:06:825 INFO  VisaConformation :88 - Click on start button: 
+2024-06-12 21:06:547 INFO  VisaConformation :93 - Select nationality
+2024-06-12 21:06:683 INFO  VisaConformation :98 - Click on continue button
+2024-06-12 21:06:797 INFO  VisaConformation :103 - Click on reason for visiting
+2024-06-12 21:06:864 INFO  VisaConformation :108 - It should click on now
+2024-06-12 21:06:129 INFO  VisaConformation :114 - Getting text from: [[ChromeDriver: chrome on windows (d3a1dc0dc74daf62c1e5b6cb1c7ebe60)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:421 INFO  VisaConformation :76 - Click on cookies: 
+2024-06-12 21:06:541 INFO  VisaConformation :88 - Click on start button: 
+2024-06-12 21:06:248 INFO  VisaConformation :93 - Select nationality
+2024-06-12 21:06:383 INFO  VisaConformation :98 - Click on continue button
+2024-06-12 21:06:480 INFO  VisaConformation :119 - Job type: 
+2024-06-12 21:06:603 INFO  VisaConformation :108 - It should click on now
+2024-06-12 21:06:834 INFO  VisaConformation :124 - Length of stay
+2024-06-12 21:06:882 INFO  VisaConformation :129 - click on third button
+2024-06-12 21:06:114 INFO  VisaConformation :134 - job type again
+2024-06-12 21:06:163 INFO  VisaConformation :139 - click on forth button
+2024-06-12 21:06:475 INFO  VisaConformation :149 - Getting text from: [[ChromeDriver: chrome on windows (1479361e735ed986cd7233dfe976a27f)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 21:06:777 INFO  VisaConformation :76 - Click on cookies: 
+2024-06-12 21:06:877 INFO  VisaConformation :88 - Click on start button: 
+2024-06-12 21:06:504 INFO  VisaConformation :93 - Select nationality
+2024-06-12 21:06:631 INFO  VisaConformation :98 - Click on continue button
+2024-06-12 21:06:782 INFO  VisaConformation :144 - Visit UK
+2024-06-12 21:06:908 INFO  VisaConformation :108 - It should click on now
+2024-06-12 22:06:806 INFO  VisaConformation :87 - Getting text from: [[ChromeDriver: chrome on windows (6a3f9cfff40ec321ed8b8b27fea13a49)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 22:06:798 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:207 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:482 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:921 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:199 INFO  VisaConformation :107 - Click on reason for visiting
+2024-06-12 22:06:327 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:750 INFO  VisaConformation :118 - Getting text from: [[ChromeDriver: chrome on windows (7e6e0a9ebfc4e0aa4b5d850dca57e5bf)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:926 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:78 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:872 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:64 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:408 INFO  VisaConformation :123 - Job type: 
+2024-06-12 22:06:504 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:776 INFO  VisaConformation :128 - Length of stay
+2024-06-12 22:06:848 INFO  VisaConformation :133 - click on third button
+2024-06-12 22:06:90 INFO  VisaConformation :138 - job type again
+2024-06-12 22:06:155 INFO  VisaConformation :143 - click on forth button
+2024-06-12 22:06:502 INFO  VisaConformation :153 - Getting text from: [[ChromeDriver: chrome on windows (3c41c4999b3e74b0914af32f2a32be29)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:779 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:315 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:105 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:297 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:577 INFO  VisaConformation :148 - Visit UK
+2024-06-12 22:06:657 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:16 INFO  VisaConformation :87 - Getting text from: [[ChromeDriver: chrome on windows (a4d1ae7ea74e2536e9557c2cf50e5b62)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 22:06:520 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:955 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:766 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:944 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:147 INFO  VisaConformation :107 - Click on reason for visiting
+2024-06-12 22:06:221 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:580 INFO  VisaConformation :118 - Getting text from: [[ChromeDriver: chrome on windows (6850e3bc60e9060e8592a09b6b97c808)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:411 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:521 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:291 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:487 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:732 INFO  VisaConformation :123 - Job type: 
+2024-06-12 22:06:960 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:250 INFO  VisaConformation :128 - Length of stay
+2024-06-12 22:06:370 INFO  VisaConformation :133 - click on third button
+2024-06-12 22:06:675 INFO  VisaConformation :138 - job type again
+2024-06-12 22:06:774 INFO  VisaConformation :143 - click on forth button
+2024-06-12 22:06:188 INFO  VisaConformation :153 - Getting text from: [[ChromeDriver: chrome on windows (84aa5d626bbe1314cc683d9c5238c5f6)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:698 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:176 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:917 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:86 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:273 INFO  VisaConformation :148 - Visit UK
+2024-06-12 22:06:445 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:701 INFO  VisaConformation :158 - Getting text from: [[ChromeDriver: chrome on windows (553a0e4a1c837853025f79c2c4616616)] -> xpath: //*[@id="result-info"]/div[2]/div/div/p[1]]
+2024-06-12 22:06:240 INFO  VisaConformation :87 - Getting text from: [[ChromeDriver: chrome on windows (7756e6e7837cd5334cc3c090bbbf5d85)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 22:06:47 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:159 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:863 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:71 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:200 INFO  VisaConformation :107 - Click on reason for visiting
+2024-06-12 22:06:281 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:551 INFO  VisaConformation :118 - Getting text from: [[ChromeDriver: chrome on windows (b13591a98229c6a208106c61f0ccc053)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:340 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:442 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:111 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:301 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:431 INFO  VisaConformation :123 - Job type: 
+2024-06-12 22:06:600 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:810 INFO  VisaConformation :128 - Length of stay
+2024-06-12 22:06:881 INFO  VisaConformation :133 - click on third button
+2024-06-12 22:06:45 INFO  VisaConformation :138 - job type again
+2024-06-12 22:06:133 INFO  VisaConformation :143 - click on forth button
+2024-06-12 22:06:390 INFO  VisaConformation :153 - Getting text from: [[ChromeDriver: chrome on windows (bd3ba06d1302734441a7f3e16087cb97)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:698 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:212 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:957 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:128 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:260 INFO  VisaConformation :148 - Visit UK
+2024-06-12 22:06:462 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:742 INFO  VisaConformation :158 - Getting text from: [[ChromeDriver: chrome on windows (b4d7fb932bd6a7410861d441d322f38b)] -> xpath: //*[@id="result-info"]/div[2]/div/div/p[1]]
+2024-06-12 22:06:726 INFO  VisaConformation :87 - Getting text from: [[ChromeDriver: chrome on windows (7c2b0e3f5809878e4f27bdad9e581452)] -> xpath: //h1[@class='gem-c-title__text govuk-heading-xl']]
+2024-06-12 22:06:640 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:927 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:795 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:242 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:628 INFO  VisaConformation :107 - Click on reason for visiting
+2024-06-12 22:06:782 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:300 INFO  VisaConformation :118 - Getting text from: [[ChromeDriver: chrome on windows (8bcb4a5e2759ceca0e7059de47741494)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:152 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:395 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:181 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:579 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:951 INFO  VisaConformation :123 - Job type: 
+2024-06-12 22:06:185 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:524 INFO  VisaConformation :128 - Length of stay
+2024-06-12 22:06:701 INFO  VisaConformation :133 - click on third button
+2024-06-12 22:06:983 INFO  VisaConformation :138 - job type again
+2024-06-12 22:06:139 INFO  VisaConformation :143 - click on forth button
+2024-06-12 22:06:568 INFO  VisaConformation :153 - Getting text from: [[ChromeDriver: chrome on windows (c53aea22ef8b45a8f7b2b2350397790b)] -> xpath: //*[@class='govuk-!-margin-bottom-6']/h2]
+2024-06-12 22:06:575 INFO  VisaConformation :80 - Click on cookies: 
+2024-06-12 22:06:767 INFO  VisaConformation :92 - Click on start button: 
+2024-06-12 22:06:698 INFO  VisaConformation :97 - Select nationality
+2024-06-12 22:06:33 INFO  VisaConformation :102 - Click on continue button
+2024-06-12 22:06:426 INFO  VisaConformation :148 - Visit UK
+2024-06-12 22:06:598 INFO  VisaConformation :112 - It should click on now
+2024-06-12 22:06:117 INFO  VisaConformation :158 - Getting text from: [[ChromeDriver: chrome on windows (61ca2cf13c5d0bb81f5b8458d6042402)] -> xpath: //*[@id="result-info"]/div[2]/div/div/p[1]]

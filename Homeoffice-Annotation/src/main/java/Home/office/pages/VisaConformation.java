@@ -28,7 +28,7 @@ public class VisaConformation extends Utility {
 
     @CacheLookup
     @FindBy(xpath = "//select[@id='response']")
-    WebElement nationality;
+    WebElement selectNationality;
 
     @CacheLookup
     @FindBy (xpath = "//button[contains(text(),'Continue')]")
@@ -37,6 +37,9 @@ public class VisaConformation extends Utility {
     @CacheLookup
     @FindBy(xpath = "//*[@class='govuk-radios']/div/input[1]")
     WebElement reasonForVisit;
+    @CacheLookup
+    @FindBy (xpath = "//button[@class='gem-c-button govuk-button gem-c-button--bottom-margin']")
+    WebElement secondContinueButton;
 
     @CacheLookup
     @FindBy (xpath = "//*[@class='govuk-!-margin-bottom-6']/h2")
@@ -45,6 +48,33 @@ public class VisaConformation extends Utility {
     @CacheLookup
     @FindBy (xpath = "//*[@class='govuk-radios']/div[2]/input[1]")
     WebElement jobType;
+
+    @CacheLookup
+    @FindBy (xpath = "//*[@class='govuk-radios']/div[2]/input")
+    WebElement lengthOfStay;
+
+    @CacheLookup
+    @FindBy(xpath = "//*[@id='current-question']/button")
+    WebElement thirdContinueButton;
+
+    @CacheLookup
+    @FindBy (xpath = "//label[text()='Health and care professional']")
+    WebElement jobTypeAgain;
+
+    @CacheLookup
+    @FindBy (xpath = "//*[text()='Continue']")
+    WebElement forthContinueButton;
+
+    @CacheLookup
+    @FindBy(xpath = "//*[@class='govuk-radios']/div[5]/input")
+    WebElement reasonToVisitUK;
+    @CacheLookup
+    @FindBy (xpath = "//*[@class='govuk-!-margin-bottom-6']/h2")
+    WebElement verifyReasonToVisitUK;
+
+    @CacheLookup
+    @FindBy (xpath = "//*[@id=\"result-info\"]/div[2]/div/div/p[1]")
+    WebElement verifyReasonToVisit;
 
     public void clickOnCookies(){
         log.info("Click on cookies: ");
@@ -63,10 +93,9 @@ public class VisaConformation extends Utility {
         clickOnElement(startButton);
     }
 
-    public void selectNationality( String nationality1) throws InterruptedException {
-       // clickOnElement(nationality);
-        Thread.sleep(5000);
-       selectByVisibleTextFromDropDown(nationality,nationality1);
+    public void selectNationality(String nationality){
+        log.info("Select nationality");
+        selectByVisibleTextFromDropDown(selectNationality,nationality);
     }
 
     public void clickOnContinueButton(){
@@ -79,6 +108,11 @@ public class VisaConformation extends Utility {
         clickOnElement(reasonForVisit);
     }
 
+    public void clickOnSecondContinueButton(){
+        log.info("It should click on now");
+        clickOnElement(secondContinueButton);
+    }
+
     public String getVerifyMessage(){
         String message = getTextFromElement(verifyMessage);
         log.info("Getting text from: " + verifyMessage.toString());
@@ -88,6 +122,41 @@ public class VisaConformation extends Utility {
     public void getJobType(){
         log.info("Job type: ");
         clickOnElement(jobType);
+    }
+
+    public void selectLengthOfStay(){
+        log.info("Length of stay");
+        clickOnElement(lengthOfStay);
+    }
+
+    public void clickOnThirdContinueButton(){
+        log.info("click on third button");
+        clickOnElement(thirdContinueButton);
+    }
+
+    public void SelectJobTypeAgain(){
+        log.info("job type again");
+        clickOnElement(jobTypeAgain);
+    }
+
+    public  void clickOnForthButton(){
+        log.info("click on forth button");
+        clickOnElement(forthContinueButton);
+    }
+
+    public void selectReasonToVisitUK(){
+        log.info("Visit UK");
+        clickOnElement(reasonToVisitUK);
+    }
+    public String getVerifyReasonToVisitUK(){
+        String message = getTextFromElement(verifyReasonToVisitUK);
+        log.info("Getting text from: " + verifyReasonToVisitUK.toString());
+        return message;
+    }
+    public String getVerifyReasonToVisit(){
+        String message = getTextFromElement(verifyReasonToVisit);
+        log.info("Getting text from: " + verifyReasonToVisit.toString());
+        return message;
     }
 
 
