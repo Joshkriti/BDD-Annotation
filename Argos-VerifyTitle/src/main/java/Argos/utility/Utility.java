@@ -1,6 +1,6 @@
-package Amazon.utility;
+package Argos.utility;
 
-import Amazon.driverfactory.ManageDriver;
+import Argos.driverfactory.ManageDriver;
 import com.google.common.base.Function;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -336,7 +336,7 @@ public class Utility extends ManageDriver {
         File source = ts.getScreenshotAs(OutputType.FILE);
 
         // After execution, you could see a folder "FailedTestsScreenshots" under screenshot folder
-        String destination = System.getProperty("user.dir") + "/src/main/java/Amazon/screenshots/" + screenshotName + dateName + ".png";
+        String destination = System.getProperty("user.dir") + "/src/main/java/Argos/screenshots/" + screenshotName + dateName + ".png";
         File finalDestination = new File(destination);
         try {
             FileUtils.copyFile(source, finalDestination);
