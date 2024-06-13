@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13d5552e-3113-40bc-8626-1e09fd4ac18f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/main/java/Asda/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/main/java/Asda/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/main/java/Asda/pages/VerifyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/main/java/Asda/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/main/java/Asda/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/Asda/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/Asda/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/Asda/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/Asda/steps/VerifySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/resources/featuresfile/verify.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asda-VerifyTitle/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Primark/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Primark/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Primark/pages/VerifyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Primark/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Primark/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Primark/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Primark/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Primark/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Primark/steps/VerifySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featuresfile/verify.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ikea-VerifyTitle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ikea-VerifyTitle/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2hpmmZbQmK0hzO93XhPa21ebf2v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: verify.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Komal/Softwere/Hamcrest/hamcrest-2.2.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Komal\BDD Homework\BDD-Annotation\Primark-VerifyTitle\src\test\java" />
+      <recent name="C:\Komal\BDD Homework\BDD-Annotation\Primark-VerifyTitle\src\test\java\Primark" />
+      <recent name="C:\Komal\BDD Homework\BDD-Annotation\Primark-VerifyTitle\src\main\java\Primark" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: verify">
+    <configuration name="Feature: verify" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featuresfile/verify.feature" />
+      <option name="GLUE" value="Primark" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Primark-VerifyTitle" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: verify" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Primark-VerifyTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Primark.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Primark.runner" />
+      <option name="MAIN_CLASS_NAME" value="Primark.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: verify" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13d5552e-3113-40bc-8626-1e09fd4ac18f" name="Changes" comment="" />
+      <created>1711883610397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711883610397</updated>
+    </task>
+    <servers />
+  </component>
+</project>

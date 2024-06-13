@@ -1,6 +1,6 @@
-package Your.Store.managedriver;
+package Asda.driverfactory;
 
-import Your.Store.propertyreader.PropertyReader;
+import Asda.propertyreader.PropertyReader;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -12,16 +12,20 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.time.Duration;
 
+/**
+ * Created by Bhavesh
+ */
 public class ManageDriver {
+
     public static WebDriver driver;
-    public String baseUrl = PropertyReader.getInstance().getProperty("baseUrl");
-    // private static final ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
+     public String baseUrl = PropertyReader.getInstance().getProperty("baseUrl");
+   // private static final ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
 
     private static final Logger log = LogManager.getLogger(ManageDriver.class.getName());
 
     public ManageDriver(){
         PageFactory.initElements(driver,this);
-        PropertyConfigurator.configure(System.getProperty("user.dir") + "/src/test/java/Your/Store/resources/propertiesfile/config.properties");
+        PropertyConfigurator.configure(System.getProperty("user.dir") + "/src/test/java/resources/propertiesfile/log4j.properties");
 
     }
 
@@ -46,4 +50,5 @@ public class ManageDriver {
             driver.quit();
         }
     }
+
 }

@@ -1,11 +1,16 @@
 Feature: Register
 
-  Scenario: User should create account successfully
+  Background:
     Given I am on homepage
+
+  Scenario: User should create account successfully
     When I click on register link
-    And I enters following users details
-      | name | surname | email | password | cpassword |
-      | bhav1 | patel | bha11@gmail.com | 123456 | 123456 |
-      | gaur | patel | gaur@gmail.com | 123456 | 123456 |
-      | de   | patel | d1e@gmail.com  | 123456 | 123456 |
+    And I enter following user details
+    | fName | lName | Email                | Telephone   | Password | cPassword |
+    | Kriti | Josh  | Kritijosh15@gmail.com| 07716294878 | Kom1234  | Kom1234   |
+
+    And I click on radio button
+    And I click on privacy policy check box
+    And I click on continue button
+    Then I should register to register page successfully
 
