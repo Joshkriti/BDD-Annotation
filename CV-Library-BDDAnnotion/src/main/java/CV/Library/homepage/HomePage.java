@@ -3,7 +3,6 @@ package CV.Library.homepage;
 import CV.Library.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
@@ -56,12 +55,27 @@ public class HomePage extends Utility {
     @FindBy (id = "hp-search-btn")
     WebElement findJobsButton;
 
+    @CacheLookup
+    @FindBy (xpath = "//*[text()='Accept All']")
+    WebElement cookies;
+
+    @CacheLookup
+    @FindBy (id = "gdpr-consent-notice" )
+    WebElement cookieIframe;
+
+    /*public void handleCookiesInIframe(){
+        driver.switchTo().frame(cookieIframe);
+        clickOnElement(cookies);
+        driver.switchTo().defaultContent();
+
+    }*/
+
     public void findAJob(String jobTitle, String location, String
-            distance, String salaryMin, String salaryMax, String salaryType, String jobType) throws InterruptedException{
+            distance, String salaryMin, String salaryMax, String salaryType, String jobType, String result) throws InterruptedException{
         Thread.sleep(2000);
 
-        driver.switchTo().frame("gdpr-consent-notice");
-        driver.findElement(By.xpath("//*[text()='Accept All']")).click();
+        driver.switchTo().frame(cookieIframe);
+        clickOnElement(cookies);
         driver.switchTo().defaultContent();
 
         sendTextToElement(jobTitleArea,jobTitle);
@@ -79,11 +93,6 @@ public class HomePage extends Utility {
     }
 
 
-    public void clickOnCookies(){
-        driver.switchTo().frame("gdpr-consent-notice");
-        driver.findElement(By.xpath("//*[text()='Accept All']")).click();
-        driver.switchTo().defaultContent();
-    }
     public String getVerifyText() {
         String message = getTextFromElement(verifyText);
         log.info("Getting text from : " + verifyText.toString());
